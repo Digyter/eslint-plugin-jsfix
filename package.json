@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-jsfix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript linter with autofix for .js files",
   "keywords": [
     "eslint",
@@ -9,10 +9,8 @@
   ],
   "author": "digyter",
   "main": "lib/index.js",
-  "scripts": {
-  },
-  "dependencies": {
-  },
+  "scripts": {},
+  "dependencies": {},
   "devDependencies": {
     "eslint": "~2.6.0"
   },
