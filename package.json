@@ -1,0 +1,31 @@
+{
+  "name": "eslint-plugin-jsfix",
+  "version": "1.0.0",
+  "description": "Javascript linter with autofix for .js files",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "digyter",
+  "main": "lib/index.js",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "~2.6.0",
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Digyter/eslint-plugin-jsfix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Digyter/eslint-plugin-jsfix/issues"
+  },
+  "homepage": "https://github.com/Digyter/eslint-plugin-jsfix#readme"
+}
